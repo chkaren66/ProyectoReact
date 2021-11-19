@@ -1,0 +1,17 @@
+body{
+    background-color: #24292f;
+}
+h1{
+ background-color: #24292f;   
+ color: aliceblue; 
+ font-size: 3rem;
+ letter-spacing: -0.01em !important;
+ font-family: "Alliance No.1",-apple-system,BlinkMacSystemFont,"Segoe";
+}
+p{
+    color: #8193b2;
+}
+div{
+    padding: 4%;
+    /* background-color: blue; */
+}
