@@ -1,0 +1,14 @@
+.contenedor-con{
+   background-color:  #100e17;
+   border-radius: 10px;
+   box-shadow: -1rem 0 3rem #000;
+}
+.titulo{
+    background-color: #100e17;
+}
+button{
+    padding: 10px;
+    border-radius: 7px;
+    margin: 10px;
+ 
+}
